@@ -7,7 +7,7 @@ Scripts waren hiervoor niet nodig.
 ![Stats](https://i.imgur.com/PM57MhS.png)
 [Pet Script](assets/Scripts/Simplepet.cs)
 
-## Opdracht 3.1 + 6.1 Goomba/Spookje/Coin + Game
+## Opdracht 2.1 + 6.1 Goomba/Spookje/Coin + Game
 ![Game](https://i.imgur.com/3Yab9lJ.gif)
 [Coin Spin Script](assets/Scripts/rotatiescript.cs)
 
