@@ -3,6 +3,9 @@
 
 Scripts waren hiervoor niet nodig.
 
+## Opdracht 1.2 Personal Gaming Profile Generator
+![Profile](https://i.imgur.com/sm3Jl9x.png)
+[Generator Script](assets/Scripts/GamerProfileDisplay.cs)
 ## Opdracht 2.2 Virtuel Pet Basics
 ![Stats](https://i.imgur.com/PM57MhS.png)
 [Pet Script](assets/Scripts/Simplepet.cs)
