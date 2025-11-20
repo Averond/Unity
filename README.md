@@ -34,3 +34,10 @@ Heb draaiende game objecten en bewegen leren maken en een game gemaakt als je de
 [Key Oppakken Script](Assets/Scripts/pickupkey.cs)
 
 [Deur met Key Script](Assets/Scripts/Doorwithkeys.cs)
+
+### Periode 2
+
+## Opdracht 1.2 Array en List
+Heb een script gemaakt die randomnized gaat als je op "enter" of "esc" 
+![Game](https://i.imgur.com/v5g7PdS.png)
+[Randomnize Script](Assets/Scripts/RandomItemController.cs)
